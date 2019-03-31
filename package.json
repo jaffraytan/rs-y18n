@@ -1,0 +1,28 @@
+{
+  "name": "rs-y18n",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaffraytan/rs-y18n.git"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": {
+    "name": "tanjifei@richstonedt.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jaffraytan/rs-y18n/issues"
+  },
+  "bundleDependencies": [],
+  "deprecated": false,
+  "description": "Cross-platform internationalization library. Inspired by i18n, y18n and y18n-browser.",
+  "homepage": "https://github.com/jaffraytan/rs-y18n",
+  "keywords": [
+    "i18n",
+    "y18n"
+  ],
+  "license": "MIT"
+}
